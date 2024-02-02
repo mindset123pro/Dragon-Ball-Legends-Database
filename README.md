@@ -7,20 +7,23 @@ A Database of the game DB Legends
 ### Check list
 
 - [ ] Ultra JSON data
-- [x] Ultra Images
-- [ ] LL characters (not done yet)
-- [ ] new characters (not ready yet)
+- [ ] Ultra Images
+- [ ] LL characters
+- [ ] new characters
 - [ ] All Characters
 - [ ] A database file
 - [ ] equips
 - [ ] other images
 - [ ] All assets
 - [ ] Audio Files
+      
 ### Credits
+
 Mindset (the creator)
 - Ducks The best helper and co creator
 - Vella
 
 ### Future Plans
+
 - [ ] Website
 - [ ] API interigations

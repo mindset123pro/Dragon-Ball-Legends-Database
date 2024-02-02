@@ -20,3 +20,7 @@ A Database of the game DB Legends
 Mindset (the creator)
 - Ducks The best helper and co creator
 - Vella
+
+### Future Plans
+- [ ] Website
+- [ ] API interigations

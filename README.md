@@ -6,7 +6,7 @@ A Database of the game DB Legends
 ------
 ### Check list
 
-- [x] Ultras
+- [ ] Ultra JSON data
 - [x] Ultra Images
 - [ ] LL characters (not done yet)
 - [ ] new characters (not ready yet)

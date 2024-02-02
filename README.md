@@ -1,2 +1,13 @@
 # Dragon-Ball-Legends-Database
-A Database file of the game DB Legends
+A Database of the game DB Legends
+
+
+- [x] Ultras
+- [x] Ultra Images
+- [x] LL characters (not done yet)
+- [x] new characters (not ready yet)
+- [ ] All Characters
+- [ ] A database file
+- [ ] equips
+- [ ] other images
+- [ ] All assets
